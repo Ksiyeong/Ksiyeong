@@ -12,23 +12,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div>
 
 ### 😄 SIYEONG KIM 😆
 
 #
-<a><img align="right" src="https://github-readme-stats.vercel.app/api?username=Ksiyeong&show_icons=true&theme=buefy"/></a>
+
 #### Hi there 👋
+
 #### I’m currently learning Back-End 💻
+
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=e-room&theme=default)](https://e-room.tistory.com)
-  <br>
+<br>
   
 ---
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ksiyeong&theme=buefy&layout=compact&langs_count=10"/>
 
-<div align=center> <h3> 📚 Stack 📚 </h3></div>
+### 📚 Stack 📚
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ksiyeong&theme=buefy&layout=compact&langs_count=10"/>
 
-<div align=center> 
+<div> 
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
   <br>
@@ -57,4 +58,3 @@ Here are some ideas to get you started:
   <br>
 </div>
 
-</div>
