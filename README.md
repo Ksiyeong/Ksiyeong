@@ -22,15 +22,14 @@ Here are some ideas to get you started:
 
 #### Contact : philip2767@gmail.com
 
-<div align="right">
-  <p href="https://e-room.tistory.com/"><img src="https://github-readme-tistory-card.vercel.app/api?name=e-room&theme=default"/></p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ksiyeong&theme=buefy&layout=compact&langs_count=10"/>
-</div>
+  <a href="https://e-room.tistory.com/"><img src="https://github-readme-tistory-card.vercel.app/api?name=e-room&theme=default"/></a>
 
 <br>
 <br>
 
 ## 📚 Technologies I'm Familiar With 📚
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ksiyeong&theme=buefy&layout=compact&langs_count=10"/>
 
 <div> <!--5줄 유지하도록 해야함-->
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
@@ -40,9 +39,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"> 
   <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white">
   <img src="https://img.shields.io/badge/Spring Data Jpa-6DB33F?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Query%20Dsl-59666C?style=for-the-badge&logo=&logoColor=white">
   <br>
 
+  <img src="https://img.shields.io/badge/Query%20Dsl-59666C?style=for-the-badge&logo=&logoColor=white">
   <img src="https://img.shields.io/badge/JSON%20Web%20Tokens-000000?style=for-the-badge&logo=JSON%20Web%20Tokens&logoColor=white">
   <img src="https://img.shields.io/badge/OAuth2.0-000000?style=for-the-badge&logo=OAuth2.0&logoColor=white">
   <img src="https://img.shields.io/badge/junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white">
