@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <a><img align="right" src="https://github-readme-stats.vercel.app/api?username=Ksiyeong&show_icons=true&theme=buefy"/></a>
 
-### 🌼 SIYEONG KIM 🌼
+### 😄 SIYEONG KIM 😆
 
 #
 
