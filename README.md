@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   <br>
   
 ---
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ksiyeong&theme=buefy&layout=compact&langs_count=10" width="400"/>
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ksiyeong&theme=buefy&layout=compact&langs_count=10"/>
 
 <div align=center> <h3> 📚 Stack 📚 </h3></div>
 
