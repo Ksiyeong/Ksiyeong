@@ -15,17 +15,22 @@ Here are some ideas to get you started:
 
 ## 😄 SIYEONG KIM 😆
 
+
 #### Hi there 👋
 
 #### I’m currently learning Back-End 💻
 
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=e-room&theme=default)](https://e-room.tistory.com)
+#### Contact : philip2767@gmail.com
+
+<div align="right">
+  <p href="https://e-room.tistory.com/"><img src="https://github-readme-tistory-card.vercel.app/api?name=e-room&theme=default"/></p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ksiyeong&theme=buefy&layout=compact&langs_count=10"/>
+</div>
+
 <br>
 <br>
 
 ## 📚 Technologies I'm Familiar With 📚
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ksiyeong&theme=buefy&layout=compact&langs_count=10"/>
 
 <div> <!--5줄 유지하도록 해야함-->
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
@@ -46,6 +51,8 @@ Here are some ideas to get you started:
 
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white">
+  <br>
+
   <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=Amazon%20S3&logoColor=white">
   <img src="https://img.shields.io/badge/Amazon%20RDS-527FFF?style=for-the-badge&logo=Amazon%20RDS&logoColor=white">
   <img src="https://img.shields.io/badge/amazon%20ec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
