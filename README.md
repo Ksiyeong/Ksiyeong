@@ -39,13 +39,11 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"> 
   <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white">
   <img src="https://img.shields.io/badge/Spring Data Jpa-6DB33F?style=for-the-badge">
-  <br>
 
   <img src="https://img.shields.io/badge/Query%20Dsl-59666C?style=for-the-badge&logo=&logoColor=white">
   <img src="https://img.shields.io/badge/JSON%20Web%20Tokens-000000?style=for-the-badge&logo=JSON%20Web%20Tokens&logoColor=white">
   <img src="https://img.shields.io/badge/OAuth2.0-000000?style=for-the-badge&logo=OAuth2.0&logoColor=white">
   <img src="https://img.shields.io/badge/junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white">
-
   <br>
 
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
