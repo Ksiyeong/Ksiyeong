@@ -15,14 +15,13 @@ Here are some ideas to get you started:
 
 ## 😄 SIYEONG KIM 😆
 
+<a href="https://e-room.tistory.com/"><img align="right" src="https://github-readme-tistory-card.vercel.app/api?name=e-room&theme=default"/></a>
 
 #### Hi there 👋
 
 #### I’m currently learning Back-End 💻
 
 #### Contact : philip2767@gmail.com
-
-  <a href="https://e-room.tistory.com/"><img src="https://github-readme-tistory-card.vercel.app/api?name=e-room&theme=default"/></a>
 
 <br>
 <br>
