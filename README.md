@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 
 ### 😄 SIYEONG KIM 😆
 
-#
-
 #### Hi there 👋
 
 #### I’m currently learning Back-End 💻
@@ -27,11 +25,12 @@ Here are some ideas to get you started:
 ---
 
 ### 📚 Stack 📚
+<div>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ksiyeong&theme=buefy&layout=compact&langs_count=10"/>
-<div align="right">
-<div align="left"> 
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+</div>
+
+<div>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
   <br>
 
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> 
@@ -56,5 +55,11 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
   <br>
-</div></div>
 
+</div>
+
+### 한번 사용해봤다
+
+<div>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+</div>
