@@ -12,16 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
-
-<a><img align="right" src="https://github-readme-stats.vercel.app/api?username=Ksiyeong&show_icons=true&theme=buefy"/></a>
+<div>
 
 ### 😄 SIYEONG KIM 😆
 
 #
-
+<a><img align="right" src="https://github-readme-stats.vercel.app/api?username=Ksiyeong&show_icons=true&theme=buefy"/></a>
 #### Hi there 👋
 #### I’m currently learning Back-End 💻
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=e-room&theme=default)](https://e-room.tistory.com)
   <br>
   
 ---
