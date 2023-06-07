@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 ## 📚 Technologies I'm Familiar With 📚
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ksiyeong&theme=buefy&layout=compact&langs_count=10"/>
+<img height="200" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ksiyeong&theme=buefy&layout=compact&langs_count=10"/>
 
 <div> <!--5줄 유지하도록 해야함-->
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
